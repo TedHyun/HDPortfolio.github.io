@@ -9,6 +9,7 @@ window.onscroll = function () {
 
 window.onload = function () {
 	scrollFunction();
+	 
 };
 
 function scrollFunction() {
