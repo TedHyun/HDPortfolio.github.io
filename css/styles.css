@@ -90,6 +90,9 @@ h6 {
 	line-height: 1.375rem;
 	font-family: "Poppins"
 }
+.powerc {
+	color:red;
+}
 .Middle {
 	padding-top : 2.75rem;
 	text-align: center;
